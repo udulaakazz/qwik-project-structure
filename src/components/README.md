@@ -5,19 +5,19 @@ This directory contains various components that make up the user interface of th
 ## Components Structure
 
 - `/common`: Contains components that are shared across multiple pages.
-  - `/header`: Contsins header component
+  - `/header`: Contains header component
     - `Header.tsx`: A reusable component for the site's header.
-  - `/footer`: Contsins footer component
+  - `/footer`: Contains footer component
     - `Footer.tsx`: A reusable component for the site's footer.
   - ...
 - `/ui`: Contains fundamental UI components used across the application.
-  - `/button`: Contsins button component
+  - `/button`: Contains button component
     - `Button.tsx`: A generic button component used across different pages.
-  - `/input`: Contsins input component
+  - `/input`: Contains input component
     - `Input.tsx`: A reusable component for input fields.
   - ...
 - `/sections`: Holds larger sections or blocks of content used across pages.
-  - `/hero`: Contsins hero component
+  - `/hero`: Contains hero component
     - `HeroSection.tsx`: A section that showcases the hero content.
   - ...
 - `/pages`: Each page has its own folder containing page-specific components.
